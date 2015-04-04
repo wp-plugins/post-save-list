@@ -9,6 +9,8 @@ This plugin allows you to add Save button next to Publish button. When you click
 == Description ==
 This plugin allows you to add Save button next to Publish button. When you click the Save button you'll get redirected to Posts list page.
 
+You can find this plugin also on https://github.com/markzero/post-save-list.
+
 == Installation ==
 Download the plugin, unzip it, place it under plugins/ directory and activate it.
 
